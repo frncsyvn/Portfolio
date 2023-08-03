@@ -383,7 +383,7 @@ p{
     }
     .project .item .right{
         width: 90%;
-        margin-left: 0 auto;
+        margin-left: 0;
         margin-top: -150px;
     }
     .project .item:nth-child(even){
